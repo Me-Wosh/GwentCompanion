@@ -8,6 +8,10 @@ main {
     flex: 1;
 }
 
+.bottom-navbar {
+    flex: 0 0 auto;
+}
+
 @media (min-width: 641px) {
     .page {
         flex-direction: row;
